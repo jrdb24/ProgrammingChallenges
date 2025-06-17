@@ -13,7 +13,7 @@ namespace ProjectEuler
         {
             List<int> primes = new List<int>();
 
-            //int counter = 2;
+            int counter = 2;
 
             //while (primes.Count <= 10001)
             //{
